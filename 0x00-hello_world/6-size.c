@@ -1,4 +1,4 @@
-#include <stdoi.h>
+#include <stdio.h>
 
 /**
  * main - print out sizes of different data types in C programming
