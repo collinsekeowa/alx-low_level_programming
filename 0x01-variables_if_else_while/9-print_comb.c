@@ -2,8 +2,8 @@
 
 /**
  * main - prints all combination of single digits
- * you can only use putchar function (4)
- * Return (0)
+ * you can only use 4 putchar function
+ * Return: 0
  */
 
 int main(void)
